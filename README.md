@@ -65,9 +65,10 @@
 
 ###
 
-# Confira meus projetos em: [Portfólio](https://github.com/gabrieldeoliver1/Projetos)
+## Confira meus projetos em: [Portfólio](https://github.com/gabrieldeoliver1/Projetos)
 
 ###
+
 ## 🔗 Contato
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldeoliver1/)
