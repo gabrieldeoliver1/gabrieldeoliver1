@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Com dois anos de experiência na bagagem, estou sempre na correria, aprimorando minhas habilidades em ciência de dados e sempre buscando aprender algo novo. Meu objetivo é criar soluções incríveis e impactantes por meio da análise de dados.<br><br><br>Se quiser trocar uma ideia sobre projetos, colaborações ou só bater um papo, tamo aí!</p>
+<p align="left">Com mais de 3 anos de experiência na bagagem, estou sempre na correria, aprimorando minhas habilidades em ciência de dados e sempre buscando aprender algo novo. Meu objetivo é criar soluções incríveis e impactantes por meio da análise de dados.<br><br><br>Se quiser trocar uma ideia sobre projetos, colaborações ou só bater um papo, tamo aí!</p>
 
 ###
 
@@ -62,5 +62,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">[Portfólio](https://github.com/gabrieldeoliver1/Projetos)</h2>
 
 ###
