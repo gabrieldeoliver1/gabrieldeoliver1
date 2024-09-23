@@ -65,6 +65,6 @@
 
 ###
 
-<h2 align="left">[Portfólio](https://github.com/gabrieldeoliver1/Projetos)</h2>
+[Portfólio](https://github.com/gabrieldeoliver1/Projetos)
 
 ###
