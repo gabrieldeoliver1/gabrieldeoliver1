@@ -39,7 +39,7 @@
 | [Análise de E-commerce com SQL](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_20) | SQL: JOINs, CTEs, funções de janela, coorte e RFM | 100 mil pedidos; retenção, logística e segmentação |
 | [Segmentação de Clientes com Clustering](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_21) | K-means, estabilidade, árvore de decisão | 5 personas; 15% dos clientes geram 40% da receita |
 | [Assistente da LGPD com RAG](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_22) | RAG, BM25, LSA, LLM (Claude) | Artigo certo entre os 4 primeiros em 80% das perguntas novas |
-| [Previsão de Churn de Clientes](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_16) | Classificação, pipeline com validação cruzada | AUC-ROC de 0,82 |
+| [Previsão de Churn de Clientes](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_16) | Classificação, pipeline com validação cruzada | AUC-ROC de 0,83 |
 | [Previsão de Demanda de Táxis](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_13) | Séries temporais, regressão | RMSE de 47,99 (meta ≤ 48) |
 | [Detecção de Resenhas Negativas](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_14) | NLP, TF-IDF, Regressão Logística | 88% de acurácia e ROC AUC de 0,95 |
 | [Estimativa de Idade por Imagem](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_15) | Visão computacional, ResNet50 | MAE de 5,79 anos |
