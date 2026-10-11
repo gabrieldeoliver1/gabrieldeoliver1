@@ -43,7 +43,7 @@
 | [Previsão de Demanda de Táxis](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_13) | Séries temporais, validação temporal | RMSE de 44,58 (meta ≤ 48) |
 | [Detecção de Resenhas Negativas](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_14) | NLP, TF-IDF, Regressão Logística | F1 de 0,88 (meta 0,85) e ROC AUC de 0,95 |
 | [Estimativa de Idade por Imagem](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_15) | Visão computacional, ResNet50 | MAE de 5,96 anos no teste |
-| [Valor de Mercado de Carros Usados](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_12) | Comparação de modelos, LightGBM | RMSE 22% menor que a linha de base |
+| [Valor de Mercado de Carros Usados](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_12) | Comparação de modelos, XGBoost | RMSE 45% menor que a linha de base |
 
 ➡️ [Ver todos os 22 projetos do portfólio](https://github.com/gabrieldeoliver1/Projetos)
 
