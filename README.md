@@ -20,12 +20,13 @@
 
 ## 🚀 Projetos em destaque
 
-### Aplicações que desenvolvi para problemas reais
+### Aplicações e modelos em produção
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
 | [Sistema de Gestão de Patrimônio](https://github.com/gabrieldeoliver1/sistema-de-patrimonio) | Controle de bens por setor de um órgão público, com perfis de acesso, histórico de movimentações, painel de indicadores e relatórios em PDF | Python, Flask, Chart.js |
 | [Monitor de Notícias](https://github.com/gabrieldeoliver1/monitor-de-noticias) | Clipping automatizado: coleta matérias de dezenas de portais e guarda só as que citam os temas de interesse | Python, Flask, BeautifulSoup, SQLite |
+| [API de Risco de Crédito](https://github.com/gabrieldeoliver1/api-risco-de-credito) | Modelo de crédito em produção: probabilidade de inadimplência, rating e explicação de cada previsão, com testes e CI | FastAPI, LightGBM, Docker |
 
 ### Ciência de Dados e Machine Learning
 
@@ -56,7 +57,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
 **Bancos de dados e desenvolvimento**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
