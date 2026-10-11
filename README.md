@@ -42,7 +42,7 @@
 | [Previsão de Churn de Clientes](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_16) | Classificação, pipeline com validação cruzada | AUC-ROC de 0,83 |
 | [Previsão de Demanda de Táxis](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_13) | Séries temporais, regressão | RMSE de 47,99 (meta ≤ 48) |
 | [Detecção de Resenhas Negativas](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_14) | NLP, TF-IDF, Regressão Logística | F1 de 0,88 (meta 0,85) e ROC AUC de 0,95 |
-| [Estimativa de Idade por Imagem](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_15) | Visão computacional, ResNet50 | MAE de 5,79 anos |
+| [Estimativa de Idade por Imagem](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_15) | Visão computacional, ResNet50 | MAE de 5,96 anos no teste |
 | [Valor de Mercado de Carros Usados](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_12) | Comparação de modelos, LightGBM | RMSE 22% menor que a linha de base |
 
 ➡️ [Ver todos os 22 projetos do portfólio](https://github.com/gabrieldeoliver1/Projetos)
