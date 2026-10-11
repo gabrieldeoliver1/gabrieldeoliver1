@@ -35,13 +35,14 @@
 | [Modelo de Risco de Crédito](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_18) | WoE/IV, scorecard, LightGBM, SHAP | AUC de 0,78 e KS de 0,43; política reduz a inadimplência de 22% para 14% |
 | [Teste A/B no Jogo Cookie Cats](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_19) | Teste Z, bootstrap, bayesiano, poder estatístico | Retenção de 7 dias 0,82 p.p. menor na nova versão (p = 0,0016) |
 | [Análise de E-commerce com SQL](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_20) | SQL: JOINs, CTEs, funções de janela, coorte e RFM | 100 mil pedidos; retenção, logística e segmentação |
+| [Segmentação de Clientes com Clustering](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_21) | K-means, estabilidade, árvore de decisão | 5 personas; 15% dos clientes geram 40% da receita |
 | [Previsão de Churn de Clientes](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_16) | Classificação, pipeline com validação cruzada | AUC-ROC de 0,82 |
 | [Previsão de Demanda de Táxis](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_13) | Séries temporais, regressão | RMSE de 47,99 (meta ≤ 48) |
 | [Detecção de Resenhas Negativas](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_14) | NLP, TF-IDF, Regressão Logística | 88% de acurácia e ROC AUC de 0,95 |
 | [Estimativa de Idade por Imagem](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_15) | Visão computacional, ResNet50 | MAE de 5,79 anos |
 | [Valor de Mercado de Carros Usados](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_12) | Comparação de modelos, LightGBM | RMSE 22% menor que a linha de base |
 
-➡️ [Ver todos os 20 projetos do portfólio](https://github.com/gabrieldeoliver1/Projetos)
+➡️ [Ver todos os 21 projetos do portfólio](https://github.com/gabrieldeoliver1/Projetos)
 
 ## 🛠️ Ferramentas
 
