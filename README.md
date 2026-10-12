@@ -38,7 +38,7 @@
 | [Teste A/B no Jogo Cookie Cats](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_19) | Teste Z, bootstrap, bayesiano, poder estatístico | Retenção de 7 dias 0,82 p.p. menor na nova versão (p = 0,0016) |
 | [Análise de E-commerce com SQL](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_20) | SQL: JOINs, CTEs, funções de janela, coorte e RFM | 100 mil pedidos; retenção, logística e segmentação |
 | [Segmentação de Clientes com Clustering](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_21) | K-means, estabilidade, árvore de decisão | 5 personas; 15% dos clientes geram 40% da receita |
-| [Assistente da LGPD com RAG](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_22) | RAG, BM25, LSA, LLM (Claude) | Artigo certo entre os 4 primeiros em 80% das perguntas novas |
+| [Assistente da LGPD com RAG](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_22) | RAG, BM25, LSA, LLM de código aberto | Artigo certo em 80% das perguntas novas; 100% de recusas fora do escopo |
 | [Previsão de Churn de Clientes](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_16) | Classificação, pipeline com validação cruzada | AUC-ROC de 0,83 |
 | [Previsão de Demanda de Táxis](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_13) | Séries temporais, validação temporal | RMSE de 44,58 (meta ≤ 48) |
 | [Detecção de Resenhas Negativas](https://github.com/gabrieldeoliver1/Projetos/tree/main/Projeto_14) | NLP, TF-IDF, Regressão Logística | F1 de 0,88 (meta 0,85) e ROC AUC de 0,95 |
